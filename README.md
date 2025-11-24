@@ -48,7 +48,7 @@ Chúng tôi xây dựng Zenlove trên nền tảng công nghệ mới nhất đ�
 Nếu bạn cần hỗ trợ hoặc muốn đóng góp ý kiến để Zenlove hoàn thiện hơn:
 
 * 📧 Email: contact@zenlove.me
-* 🌐 Fanpage: [Facebook Zenlove](link-facebook-cua-ban)
+* 🌐 Fanpage: [Facebook Zenlove](https://www.facebook.com/zenlove.me)
 
 ---
 
